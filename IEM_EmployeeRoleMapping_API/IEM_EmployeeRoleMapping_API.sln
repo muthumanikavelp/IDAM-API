@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEM_EmployeeRoleMapping_API", "IEM_EmployeeRoleMapping_API\IEM_EmployeeRoleMapping_API.csproj", "{6A2CAF13-FACE-4015-8783-08A440F025E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEM_EmployeeRoleMapping_Model", "IEM_EmployeeRoleMapping_Model\IEM_EmployeeRoleMapping_Model.csproj", "{471EFE2E-699C-4739-B844-722DCE5F06C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEM_EmployeeRoleMapping_Service", "IEM_EmployeeRoleMapping_Service\IEM_EmployeeRoleMapping_Service.csproj", "{1B139135-AD65-41D2-8441-9F57DAC359DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEM_EmployeeRoleMapping_DataModel", "IEM_EmployeeRoleMapping_DataModel\IEM_EmployeeRoleMapping_DataModel.csproj", "{BFCC8280-A5AB-4EA6-ADD4-8B422B8396C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2CAF13-FACE-4015-8783-08A440F025E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2CAF13-FACE-4015-8783-08A440F025E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2CAF13-FACE-4015-8783-08A440F025E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2CAF13-FACE-4015-8783-08A440F025E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471EFE2E-699C-4739-B844-722DCE5F06C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471EFE2E-699C-4739-B844-722DCE5F06C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471EFE2E-699C-4739-B844-722DCE5F06C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471EFE2E-699C-4739-B844-722DCE5F06C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B139135-AD65-41D2-8441-9F57DAC359DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B139135-AD65-41D2-8441-9F57DAC359DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B139135-AD65-41D2-8441-9F57DAC359DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B139135-AD65-41D2-8441-9F57DAC359DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCC8280-A5AB-4EA6-ADD4-8B422B8396C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCC8280-A5AB-4EA6-ADD4-8B422B8396C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCC8280-A5AB-4EA6-ADD4-8B422B8396C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCC8280-A5AB-4EA6-ADD4-8B422B8396C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
